@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30621.155
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PointOfSales", "SupermarketTuto\PointOfSales.csproj", "{8B372ED2-1297-436F-AA70-7FD74C84F6FA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PointOfSales", "PointOfSales\PointOfSales.csproj", "{8B372ED2-1297-436F-AA70-7FD74C84F6FA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
