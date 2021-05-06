@@ -185,6 +185,20 @@ namespace SupermarketTuto
 
         }
 
+        private void button6_Click(object sender, EventArgs e)
+        {
+            SellerForm seller = new SellerForm();
+            seller.Show();
+            this.Hide();
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            ProductForm product = new ProductForm();
+            product.Show();
+            this.Hide();
+        }
+
         private void button9_Click(object sender, EventArgs e)
         {
             if (ProdName.Text == "" || ProdQty.Text == "")

@@ -121,6 +121,7 @@
             this.SearchCb.ShadowDecoration.Parent = this.SearchCb;
             this.SearchCb.Size = new System.Drawing.Size(140, 36);
             this.SearchCb.TabIndex = 16;
+            this.SearchCb.SelectedIndexChanged += new System.EventHandler(this.SearchCb_SelectedIndexChanged);
             this.SearchCb.SelectionChangeCommitted += new System.EventHandler(this.SearchCb_SelectionChangeCommitted);
             // 
             // label7
@@ -255,6 +256,7 @@
             this.CatCb.ShadowDecoration.Parent = this.CatCb;
             this.CatCb.Size = new System.Drawing.Size(140, 36);
             this.CatCb.TabIndex = 10;
+            this.CatCb.SelectedIndexChanged += new System.EventHandler(this.CatCb_SelectedIndexChanged);
             // 
             // label6
             // 

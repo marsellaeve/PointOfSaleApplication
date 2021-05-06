@@ -195,5 +195,15 @@ namespace SupermarketTuto
             report.Show();
             this.Hide();
         }
+
+        private void CatCb_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void SearchCb_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

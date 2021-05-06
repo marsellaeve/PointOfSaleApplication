@@ -70,6 +70,7 @@
             this.MyProgressBar.Size = new System.Drawing.Size(300, 30);
             this.MyProgressBar.TabIndex = 8;
             this.MyProgressBar.TextRenderingHint = System.Drawing.Text.TextRenderingHint.SystemDefault;
+            this.MyProgressBar.ValueChanged += new System.EventHandler(this.MyProgressBar_ValueChanged);
             // 
             // timer1
             // 

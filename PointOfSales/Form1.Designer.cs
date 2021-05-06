@@ -219,9 +219,9 @@
             this.guna2HtmlLabel6.ForeColor = System.Drawing.Color.Maroon;
             this.guna2HtmlLabel6.Location = new System.Drawing.Point(12, 139);
             this.guna2HtmlLabel6.Name = "guna2HtmlLabel6";
-            this.guna2HtmlLabel6.Size = new System.Drawing.Size(137, 36);
+            this.guna2HtmlLabel6.Size = new System.Drawing.Size(143, 36);
             this.guna2HtmlLabel6.TabIndex = 11;
-            this.guna2HtmlLabel6.Text = "SUPERMARKET";
+            this.guna2HtmlLabel6.Text = "POINT OF SALE";
             // 
             // guna2HtmlLabel7
             // 

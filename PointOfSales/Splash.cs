@@ -35,5 +35,10 @@ namespace SupermarketTuto
         {
             timer1.Start();
         }
+
+        private void MyProgressBar_ValueChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -81,5 +81,10 @@ namespace SupermarketTuto
             report.Show();
             this.Hide();
         }
+
+        private void IncDGV_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }
